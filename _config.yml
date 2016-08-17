@@ -1,6 +1,6 @@
 name: Adriana Cansian
 favicon: null
-layout_spectrum: 0.24411
+layout_spectrum: 0.49376
 typography_spectrum: 0.25451
 title: Adriana de Moraes Cansian | Direito Digital
 cta:
@@ -25,5 +25,5 @@ color:
   brandStrength: 0.2912660175934434
   lightness: 0.4179596835747361
   saturation: 0.781571846222505
-  rhythmicContrast: 0.8299160827882588
+  rhythmicContrast: 0.25
 purpose: []
