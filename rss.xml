@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[AdrianaCansian]]></title>
+        <description><![CDATA[AdrianaCansian]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 17 Aug 2016 16:31:15 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Se o braço da lei já alcançava os usuários e prestadores de serviço de Internet brasileiros, agora mais do que nunca a responsabilidade dos atos praticados por meio da rede mundial de computadores estarão na mira da lei. E nessa esteira, também seguem os advogados especializados em oferecer orientação e acompanhamento jurídico adequado para todos aqueles que se sentirem ofendidos ou lesados na Internet.</p>]]></description>
+            <link>undefinedse-o-braco-da-lei-ja-alcancava-os-usuarios-e-prestadores-de/index.html</link>
+            <guid isPermaLink="false">19937e0e-fdae-4936-8ff2-772ee074bb8f</guid>
+            <pubDate>Wed, 17 Aug 2016 16:31:14 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
