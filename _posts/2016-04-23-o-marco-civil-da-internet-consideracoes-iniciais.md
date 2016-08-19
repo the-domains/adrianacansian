@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Adriana de Moraes Cansian
-datePublished: '2016-08-17T16:55:13.617Z'
-dateModified: '2016-08-17T16:55:06.506Z'
+datePublished: '2016-08-19T01:10:58.024Z'
+dateModified: '2016-08-17T16:55:22.864Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-23-o-marco-civil-da-internet-consideracoes-iniciais.md
