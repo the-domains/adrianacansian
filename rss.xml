@@ -4,7 +4,7 @@
         <description><![CDATA[Adriana de Moraes Cansian | Direito Digital]]></description>
         <link>https://thegrid.ai/adrianacansian/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 17 Aug 2016 16:55:15 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Aug 2016 01:10:23 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/adrianacansian/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -14,18 +14,25 @@
             <pubDate>Wed, 17 Aug 2016 16:31:14 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[ ]]></title>
-            <description><![CDATA[<p>Adriana de Moraes Cansian</p>]]></description>
-            <link>https://thegrid.ai/adrianacansian/o-marco-civil-da-internet-consideracoes-iniciais/index.html</link>
-            <guid isPermaLink="false">041fbdf0-8cb0-412a-aec8-a628c75f5b4e</guid>
-            <pubDate>Wed, 17 Aug 2016 16:55:13 GMT</pubDate>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>https://www.technologyreview.com/s/602201/security-experts-agree-the-nsa-was-hacked/</p>]]></description>
+            <link>https://thegrid.ai/adrianacansian/httpswwwtechnologyreviewcoms602201security-experts-a/index.html</link>
+            <guid isPermaLink="false">79b11c8d-8cf5-4225-8e27-9722e9f4fe9b</guid>
+            <pubDate>Fri, 19 Aug 2016 01:10:22 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/acf8392b-a333-495c-a055-1c3b04fdb9f2.jpg">]]></description>
             <link>https://thegrid.ai/adrianacansian/bf89a3fd-76ae-4e46-9f91-543a6c043aee/index.html</link>
             <guid isPermaLink="false">bf89a3fd-76ae-4e46-9f91-543a6c043aee</guid>
-            <pubDate>Wed, 17 Aug 2016 16:49:38 GMT</pubDate>
+            <pubDate>Wed, 17 Aug 2016 16:55:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ ]]></title>
+            <description><![CDATA[<p>Adriana de Moraes Cansian</p>]]></description>
+            <link>https://thegrid.ai/adrianacansian/o-marco-civil-da-internet-consideracoes-iniciais/index.html</link>
+            <guid isPermaLink="false">041fbdf0-8cb0-412a-aec8-a628c75f5b4e</guid>
+            <pubDate>Wed, 17 Aug 2016 16:55:13 GMT</pubDate>
         </item>
     </channel>
 </rss>
